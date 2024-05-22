@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/section03/core" />
+    <file type="web" url="file://$PROJECT_DIR$/section03/core_to_spring" />
+    <file type="web" url="file://$PROJECT_DIR$/section04/core_to_spring" />
+    <file type="web" url="file://$PROJECT_DIR$/section07/core_to_spring" />
+    <file type="web" url="file://$PROJECT_DIR$/section08/core_to_spring" />
+    <file type="web" url="file://$PROJECT_DIR$/section09/core_to_spring" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="temurin-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
